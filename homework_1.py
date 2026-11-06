@@ -79,4 +79,3 @@ import matplotlib.pyplot as plt  # making plots
 # > produced. Using scikit-learn, run both $k$-means clustering and DBSCAN on
 # > this dataset. Which method produces more reasonable "clusters"?
 
-
